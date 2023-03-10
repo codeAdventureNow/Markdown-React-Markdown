@@ -37,7 +37,7 @@
   border-radius: 3px;
   outline: 1px solid grey;
   width: 90%;
-  height: 50vh;
+  min-height: 40vh;
   margin: 20px;
   background: white;
   box-shadow: 4px 6px 6px hsl(0deg 0% 0% / 0.18);
