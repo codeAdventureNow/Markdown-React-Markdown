@@ -3,20 +3,22 @@
 Through this project, I realized the power of leveraging packages as efficient tools to reach solutions rather than reinventing the wheel. Navigating extensive package documentation was challenging, but I found a streamlined solution with minimal dependencies, making troubleshooting easier and enabling a focus on core functionality. This experience emphasized the value of selecting appropriate tools, exploring documentation thoroughly, and embracing simplicity and efficiency in development.
 
 ## User Stories
-&check;  I can choose my team to be 'X' or 'O'.
+&check;  I can see a textarea element with a corresponding id="editor".
 
-&check;  I can play Tic Tac Toe against the computer.
+&check;   I can see an element with a corresponding id="preview".
 
-&check;  I can see a display of who is the winner or if it is a tie game at the end.
+&check;  When I enter text into the #editor element, the #preview element is updated as I type to display the content of the text area.
 
-&check;  I can reset the game in the middle of playing or at the end with the click of a button.
+&check; When I enter GitHub flavored markdown into the #editor element, the text is rendered as HTML in the #preview element as I type.
+
+&check; When my markdown previewer first loads, the default text in the #editor field should contain valid markdown that represents at least one of each of the following elements: a heading element (H1 size), a sub heading element (H2 size), a link, inline code, a code block, a list item, a blockquote, an image, and bolded text.
 
 ## Lessons Learned
-- Simplifying state management with a reducer
+- Using libraries to simplify and speed up my workflow.
 
-- How to have the computer randomly choose squares that gradually decrease with each move.
+- The basics of git hub flavored markdown.
 
-- How to useCallback in conjunction with useEffect in React
+- Working with and modifying text area.
 
 
 ## Getting Started
