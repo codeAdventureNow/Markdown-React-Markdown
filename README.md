@@ -28,5 +28,7 @@ Through this project, I realized the power of leveraging packages as efficient t
 2.  npm run start
 3.  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+   Check out the demo of [Markdown Previewr](https://markdown-react-markdown.vercel.app/).
+
 
 
